@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## ¡Bienvenido a un maravilloso ejemplo!
 
-You can use the [editor on GitHub](https://github.com/JoseAntonioPS/JoseAntonioPS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En esta actividad nos centramos en seguir el segundo tutorial proporcionado (https://guides.github.com/features/pages/) para así poder crear una página web.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ahora pasamos a ver el sencillo estilo para escribir en la página 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Aquí tenemos una cabecera
+## Una sub-cabecera
+### y otra más!!
+
+Ahora se dejará el contenido por defecto:
 
 - Bulleted
 - List
